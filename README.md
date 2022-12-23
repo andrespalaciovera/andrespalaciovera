@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrespalaciovera
-- 👀 I’m interested in a lot of thing, among of them: programming
+- 👀 I’m interested in a lot of things, among of them: programming
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on Frontend vevelopment
+- 💞️ I’m looking to collaborate on Frontend development
 - 📫 How to reach me: andrespalaciovera@gmail.com
 
 <!---
